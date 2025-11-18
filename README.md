@@ -3,6 +3,7 @@ This project performs real-time facial emotion detection using your webcam. It u
 
 Features
 
+
 Real-time emotion recognition using a webcam
 
 Detects multiple emotions such as:
@@ -15,7 +16,10 @@ Runs fully on CPU (GPU optional)
 
 Built using DeepFace’s pre-trained models
 
+
+
 Tech Stack
+
 
 Python
 
